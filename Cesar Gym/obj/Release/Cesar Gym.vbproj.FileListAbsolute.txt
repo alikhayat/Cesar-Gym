@@ -1,0 +1,22 @@
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\bin\Release\Database.mdb
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\bin\Release\Cesar Gym.exe.config
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\bin\Release\Cesar Gym.exe
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\bin\Release\Cesar Gym.pdb
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\bin\Release\Cesar Gym.xml
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.AdminTab.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.ClientGate.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.ClientPortal.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.ClientSelection.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Categories.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Config.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Facebook.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.insert.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Main.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Report.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.schedule.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar_Gym.Search_Query.resources
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar Gym.vbproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar Gym.exe
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar Gym.xml
+C:\Users\ali\Documents\Visual Studio 2013\Projects\Cesar Gym\Cesar Gym\obj\Release\Cesar Gym.pdb
